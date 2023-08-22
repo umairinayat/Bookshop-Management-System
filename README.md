@@ -65,4 +65,4 @@ Contributions to this project are welcome! If you find any bugs or have suggesti
 
 # License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License.](https://github.com/umairinayat/Bookshop-Management-System/blob/main/LICENSE)
